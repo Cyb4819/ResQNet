@@ -1,0 +1,263 @@
+{
+  "cpr": {
+    "title": "CPR (Cardiopulmonary Resuscitation)",
+    "steps": [
+      "Ensure the scene is safe.",
+      "Check if the person is responsive and breathing.",
+      "Call emergency services or ask someone to do so.",
+      "Begin chest compressions: 100–120 compressions per minute, pushing hard and fast in the center of the chest.",
+      "After 30 compressions, give 2 rescue breaths (if trained and comfortable).",
+      "Continue cycles of 30 compressions and 2 breaths until help arrives or the person recovers."
+    ]
+  },
+  "bleeding": {
+    "title": "Severe Bleeding",
+    "steps": [
+      "Apply direct pressure with a clean cloth or bandage.",
+      "Elevate the injured limb above heart level, if possible.",
+      "If blood soaks through, add another layer—don’t remove the first.",
+      "Maintain pressure and apply a pressure bandage.",
+      "If bleeding is uncontrollable, consider using a tourniquet (only if trained).",
+      "Seek immediate medical help."
+    ]
+  },
+  "burns": {
+    "title": "Burns (All Degrees)",
+    "steps": [
+      "Stop the burning: remove the source.",
+      "Cool the burn with clean running water for at least 10 minutes.",
+      "Remove jewelry or restrictive items near burn—swelling can occur.",
+      "Cover with a clean non-stick dressing or plastic wrap.",
+      "Do not apply creams, oils, or ice directly.",
+      "Do not burst blisters. Seek medical attention for serious burns."
+    ]
+  },
+  "fractures": {
+    "title": "Suspected Fractures and Sprains",
+    "steps": [
+      "Ensure the scene is safe and calm.",
+      "Immobilize the affected area using splints or padded supports.",
+      "Use a sling for arm/shoulder injuries.",
+      "Apply ice packs wrapped in cloth to reduce swelling.",
+      "Keep the injured area elevated if possible.",
+      "Seek professional medical care promptly."
+    ]
+  },
+  "choking": {
+    "title": "Choking (Adult & Child)",
+    "steps": [
+      "Ask 'Are you choking?' If they can cough, encourage coughing.",
+      "If they can't breathe, speak, or cough, call emergency services.",
+      "Perform 5 back blows between the shoulder blades.",
+      "Then perform up to 5 abdominal thrusts (Heimlich maneuver).",
+      "Alternate back blows and thrusts until the object is dislodged.",
+      "If the person becomes unresponsive, begin CPR."
+    ]
+  },
+  "hypothermia": {
+    "title": "Hypothermia (Extreme Cold)",
+    "steps": [
+      "Move the person to a warm, sheltered area.",
+      "Remove wet clothing and dry gently.",
+      "Wrap in dry blankets, including head (but not face).",
+      "Offer warm (not hot) sweetened drinks if conscious.",
+      "Do NOT apply direct heat or massage limbs.",
+      "Seek medical help immediately."
+    ]
+  },
+  "heatstroke": {
+    "title": "Heat Exhaustion / Heatstroke",
+    "steps": [
+      "Move to a cool, shaded or air-conditioned location.",
+      "Loosen or remove tight clothing.",
+      "Cool skin with wet cloths, fans, or misting.",
+      "Give sips of cool water unless unconscious or nauseous.",
+      "If signs worsen (confusion, fainting), treat as heatstroke:",
+      "Call emergency services and begin rapid cooling—immerse in cool water or apply ice packs to groin/armpits/neck."
+    ]
+  },
+  "shock": {
+    "title": "Shock",
+    "steps": [
+      "Have the person lie down on their back.",
+      "Elevate legs about 12 inches (if no spinal injury).",
+      "Keep them warm and comfortable with blankets.",
+      "Do not give food or drink.",
+      "Monitor breathing and consciousness.",
+      "Call emergency services right away."
+    ]
+  },
+  "poisoning": {
+    "title": "Poisoning (Ingestion / Chemical)",
+    "steps": [
+      "Ensure the area is safe and avoid further exposure.",
+      "Identify the substance if possible.",
+      "Do NOT induce vomiting unless directed by poisoning control.",
+      "Rinse skin or eyes with water if contact occurred.",
+      "Call poison control center or emergency services immediately."
+    ]
+  },
+  "electric_shock": {
+    "title": "Electric Shock",
+    "steps": [
+      "Turn off the electricity at the source—or use non‑conductive object to separate victim from current.",
+      "Do NOT touch the victim while they’re still in contact.",
+      "Check responsiveness and breathing; call emergency services.",
+      "Start CPR if unresponsive and not breathing.",
+      "Cover burns with clean, dry, non-stick dressing.",
+      "Treat for shock and keep warm until help arrives."
+    ]
+  },
+  "drowning": {
+    "title": "Drowning / Near-Drowning",
+    "steps": [
+      "Ensure scene safety; remove the person from water.",
+      "Check responsiveness and breathing immediately.",
+      "Call emergency services and start CPR if needed.",
+      "Place in recovery position if breathing returns.",
+      "Prevent hypothermia: cover with blankets.",
+      "Even if recovered, seek medical evaluation—delayed complications can occur."
+    ]
+  },
+  "animal_bites": {
+    "title": "Animal or Insect Bites & Stings",
+    "steps": [
+      "Clean the wound with soap and water.",
+      "Apply an antiseptic.",
+      "Cover with a sterile dressing.",
+      "For insect stings, remove stinger carefully and apply a cold pack.",
+      "Monitor for signs of allergic reaction (hives, swelling, difficulty breathing).",
+      "If severe, administer epinephrine (if available) and call emergency services."
+    ]
+},
+    "head_injury": {
+    "title": "Head Injury",
+    "steps": [
+      "Keep the person still and calm.",
+      "Check for responsiveness and breathing.",
+      "Apply a cold compress to reduce swelling.",
+      "Do not move the person if you suspect spinal injury.",
+      "Call emergency services if there is confusion, vomiting, or unconsciousness."
+    ]
+  },
+  "spinal_injury": {
+    "title": "Suspected Spinal Injury",
+    "steps": [
+      "Do not move the person unless in immediate danger.",
+      "Keep the head, neck, and back in alignment.",
+      "Stabilize the head with towels or hands on each side.",
+      "Call emergency services immediately.",
+      "Monitor breathing and be prepared to start CPR if needed."
+    ]
+  },
+  "crush_injury": {
+    "title": "Crush Injury",
+    "steps": [
+      "Call emergency services immediately.",
+      "Do not attempt to lift heavy debris alone.",
+      "If safe, control bleeding with pressure.",
+      "If the limb has been trapped for more than 15 minutes, do not release without medical help (risk of toxic shock).",
+      "Keep the person calm and monitor for shock."
+    ]
+  },
+  "amputation": {
+    "title": "Amputation",
+    "steps": [
+      "Call emergency help immediately.",
+      "Apply firm pressure to stop bleeding using a clean cloth or bandage.",
+      "Wrap the amputated part in moist sterile gauze, place in a sealed plastic bag, then place that bag in cold water (not directly on ice).",
+      "Label the part with the person's name and time.",
+      "Treat the person for shock until help arrives."
+    ]
+  },
+  "trapped_under_debris": {
+    "title": "Person Trapped Under Debris",
+    "steps": [
+      "Call emergency services immediately.",
+      "Do not move heavy debris unless trained and safe to do so.",
+      "Talk to the victim to reassure them.",
+      "Provide water if they are alert and it's safe.",
+      "Check for bleeding or breathing difficulties and assist only if safe to do so."
+    ]
+  },
+  "hypoxia": {
+    "title": "Low Oxygen (Hypoxia from Smoke or Dust Inhalation)",
+    "steps": [
+      "Move the person to fresh air immediately.",
+      "Loosen tight clothing.",
+      "Check breathing—begin CPR if necessary.",
+      "If conscious, keep them calm and seated.",
+      "Seek urgent medical attention."
+    ]
+  },
+  "chemical_exposure": {
+    "title": "Chemical Exposure (from Flood or Industrial Damage)",
+    "steps": [
+      "Avoid exposure yourself—wear gloves/mask if available.",
+      "Flush affected skin or eyes with clean water for at least 15 minutes.",
+      "Remove contaminated clothing carefully.",
+      "Cover with a sterile dressing if needed.",
+      "Call poison control or emergency services."
+    ]
+  },
+  "flood_related_illness": {
+    "title": "Contaminated Water / Flood-Related Illness",
+    "steps": [
+      "Give only clean bottled or boiled water.",
+      "Clean wounds with antiseptic to prevent infection.",
+      "Watch for signs of diarrhea, vomiting, or fever.",
+      "Avoid contact with flood water if possible.",
+      "Seek medical care for persistent symptoms."
+    ]
+  },
+  "panic_attack": {
+    "title": "Panic Attack (Psychological First Aid)",
+    "steps": [
+      "Speak calmly and reassure the person they are safe.",
+      "Encourage slow, deep breathing.",
+      "Move to a quieter, less stimulating environment if possible.",
+      "Stay with the person and offer emotional support.",
+      "Seek mental health support after the disaster if needed."
+    ]
+  },
+  "dehydration": {
+    "title": "Dehydration",
+    "steps": [
+      "Move the person to a shaded or cool area.",
+      "Give frequent small sips of clean water.",
+      "Use oral rehydration salts if available.",
+      "Monitor for signs of worsening condition (confusion, fainting).",
+      "Seek medical help if severe symptoms appear."
+    ]
+  },
+  "hypoglycemia": {
+    "title": "Low Blood Sugar (Hypoglycemia)",
+    "steps": [
+      "Give a sugary snack, drink, or glucose tablets immediately.",
+      "If unconscious, do not give anything by mouth—call emergency help.",
+      "Once alert, provide a balanced meal or snack.",
+      "Monitor closely and avoid further delay in food intake.",
+      "Seek medical care if symptoms recur."
+    ]
+  },
+  "tsunami_escape_injury": {
+    "title": "Injuries During Tsunami or Rapid Evacuation",
+    "steps": [
+      "Stop any visible bleeding with direct pressure.",
+      "Treat open wounds to prevent infection.",
+      "Support sprains or fractures with improvised splints.",
+      "Check for signs of shock (pale, cold, rapid breathing).",
+      "Seek help as soon as it’s safe to do so."
+    ]
+  },
+  "burns_in_wildfire": {
+    "title": "Burns in Wildfires",
+    "steps": [
+      "Move the person away from fire or smoke.",
+      "Cool burns with water for at least 10 minutes.",
+      "Do not apply ointments or ice.",
+      "Cover with clean, non-stick dressing or cloth.",
+      "Treat for shock and seek medical help quickly."
+    ]
+  }
+}

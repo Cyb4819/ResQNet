@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+torch
+transformers
+sounddevice
+vosk
+opencv-python
+pyttsx3
+bleak
+whisper-cpp-python
+pytest
