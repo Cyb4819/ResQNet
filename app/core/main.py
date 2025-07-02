@@ -1,4 +1,5 @@
-from app.aid import handle_aid_request, analyze_image_for_hazards, recognize_kit_item
+from app.aid import handle_aid_request, analyze_image_for_hazards
+from models.gemma3n.pipeline import get_text_generation_pipeline
 
 def main():
     print("==== ResQNet CLI ====")
